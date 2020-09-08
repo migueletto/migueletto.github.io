@@ -189,7 +189,7 @@ var Module = typeof Module !== 'undefined' ? Module : {};
     }
   
    }
-   loadPackage({"files": [{"filename": "/assets/coco2.bmp", "start": 0, "end": 55350, "audio": 0}, {"filename": "/assets/disk0.dsk", "start": 55350, "end": 219190, "audio": 0}, {"filename": "/assets/dos.bin", "start": 219190, "end": 225360, "audio": 0}], "remote_package_size": 225360, "package_uuid": "5e05ebf8-fd63-4d4c-8124-a887753213cd"});
+   loadPackage({"files": [{"filename": "/assets/coco2.bmp", "start": 0, "end": 55350, "audio": 0}, {"filename": "/assets/disk0.dsk", "start": 55350, "end": 219190, "audio": 0}, {"filename": "/assets/dos.bin", "start": 219190, "end": 225360, "audio": 0}], "remote_package_size": 225360, "package_uuid": "da35700f-53eb-4bcf-96c6-39bae0dcbffe"});
   
   })();
   
